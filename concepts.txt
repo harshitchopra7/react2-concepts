@@ -1,0 +1,21 @@
+API
+(Application Programming Interface)
+
+API consists of two parts
+1. Header of the API
+2. Body of the API
+
+Ways to call an API
+1. fetch
+2. axios
+
+Headers in API
+1. GET - Read
+2. POST - Create
+3. PUT - Update
+4. DELETE - Delete
+
+Create, Read, Update, Delete (CRUD)
+
+Body in API
+It contains values which needs to be stored in the database
