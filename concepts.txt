@@ -19,3 +19,20 @@ Create, Read, Update, Delete (CRUD)
 
 Body in API
 It contains values which needs to be stored in the database
+
+
+
+useEffect
+It takes 2 parameters - 
+1. Function
+2. Array
+
+Ways to use useEffect
+1. Empty Array
+- Runs only once, at the time of page loading
+
+2. Variable in Array
+- Runs once, at the time of page loading and runs as many times as the variables present in the array updates or modifies
+
+3. No Array
+- Runs once, at the time of page loading and runs everytime whenever any variable in the component updates or modifies
