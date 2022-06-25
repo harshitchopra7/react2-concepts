@@ -24,7 +24,7 @@ function ApiCalling() {
       <input value={surname} onChange={(e) => setSurname(e.target.value)} /> */}
       {apiData.map((value, key) => (
         <div>
-            <p>id:  {value.id}</p>
+          <p>id:  {value.id}</p>
           <p>Title: {value.title}</p>
           <p>Body: {value.body}</p>
         </div>
